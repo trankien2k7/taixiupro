@@ -1,0 +1,31 @@
+{
+  "name": "TaiXiu",
+  "version": "0.0.1",
+  "description": "Server game by ducnghia",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "request": "^2.88.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trandoducnghia/taixiu.git"
+  },
+  "homepage": "https://github.com/trandoducnghia/taixiu",
+  "bugs": {
+    "url": "https://github.com/trandoducnghia/taixiu/issues"
+  },
+  "author": {
+    "name": "Tran Do Duc Nghia",
+    "email": "trandoducnghia@gmail.com",
+    "url": "https://github.com/trandoducnghia"
+  },
+  "license": "ISC"
+}
